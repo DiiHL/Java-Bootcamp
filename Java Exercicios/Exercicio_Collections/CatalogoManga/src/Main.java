@@ -10,7 +10,6 @@ public class Main {
         int opcao;
 
         do {
-
             System.out.println("1. Adicionar manga");
             System.out.println("2. Ver catalogo manga");
             System.out.println("3. Remover manga");
@@ -38,7 +37,9 @@ public class Main {
     }
 
     private static void removerManga() {
-        String titulo = sc1.next();
+        System.out.println("Digite o titulo do manga");
+        String titulo = sc1.nextLine();
+        sc1.nextLine();
         catalogo.removerManga(titulo);
     }
 }

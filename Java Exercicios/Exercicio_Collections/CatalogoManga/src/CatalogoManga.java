@@ -16,6 +16,7 @@ public class CatalogoManga{
         Iterator<Manga> mangaIterator = mangaList.iterator();
         if (mangaList.isEmpty()) {
             System.out.println("A lista está Vazia");
+            return;
         }
         while (mangaIterator.hasNext()) {
             if (mangaIterator.next().getTitulo().equalsIgnoreCase(titulo)) {
