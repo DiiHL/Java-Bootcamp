@@ -44,7 +44,6 @@ public class GerenciadorUsuarios {
                 return;
             }
         }
-
         System.out.println("Usuario não encontrado");
     }
 }
