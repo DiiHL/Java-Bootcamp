@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/Biblioteca/Biblioteca.iml" filepath="$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/Biblioteca/Biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/CadastroDeAlunos/CadastroDeAlunos.iml" filepath="$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/CadastroDeAlunos/CadastroDeAlunos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/CadastroProdutos/CadastroProdutos.iml" filepath="$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/CadastroProdutos/CadastroProdutos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/CadastroUsuarios/CadastroUsuarios.iml" filepath="$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/CadastroUsuarios/CadastroUsuarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/CatalogoManga/CatalogoManga.iml" filepath="$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/CatalogoManga/CatalogoManga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio POO em Java/Desafio-DIO-Carro/Desafio-DIO-Carro.iml" filepath="$PROJECT_DIR$/Desafio POO em Java/Desafio-DIO-Carro/Desafio-DIO-Carro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio POO em Java/Desafio-Dio-Banco/Desafio-Dio-Banco.iml" filepath="$PROJECT_DIR$/Desafio POO em Java/Desafio-Dio-Banco/Desafio-Dio-Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio POO em Java/Desafio-POO-Bootcamp/Desafio-POO-Bootcamp.iml" filepath="$PROJECT_DIR$/Desafio POO em Java/Desafio-POO-Bootcamp/Desafio-POO-Bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio POO em Java/Desafio-POO-UML/Desafio-POO-UML.iml" filepath="$PROJECT_DIR$/Desafio POO em Java/Desafio-POO-UML/Desafio-POO-UML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio POO em Java/Desafio-Padroes-Projeto/Desafio-Padroes-Projeto.iml" filepath="$PROJECT_DIR$/Desafio POO em Java/Desafio-Padroes-Projeto/Desafio-Padroes-Projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio Basico Java/DesafioControleBanco/DesafioControleBanco.iml" filepath="$PROJECT_DIR$/Desafio Basico Java/DesafioControleBanco/DesafioControleBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio Basico Java/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/Desafio Basico Java/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/ExercicioSet/ExercicioSet.iml" filepath="$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/ExercicioSet/ExercicioSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Exercicios/Exercicio_Geral/Exercicio_Geral.iml" filepath="$PROJECT_DIR$/Java Exercicios/Exercicio_Geral/Exercicio_Geral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/Filme/Filme.iml" filepath="$PROJECT_DIR$/Java Exercicios/Exercicio_Collections/Filme/Filme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Bootcamp.iml" filepath="$PROJECT_DIR$/.idea/Java-Bootcamp.iml" />
+    </modules>
+  </component>
+</project>
