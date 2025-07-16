@@ -5,9 +5,9 @@ import java.util.Optional;
 
 public class ServiceLivro {
 
+    private static final ArrayList<Livro> livroAlugados = new ArrayList<>();
     public static void alugarLivro(List<Livro> livros, String name) {
         isLivroDisponivel(livros);
-        ArrayList<Livro> livroAlugados = new ArrayList<>();
 
         System.out.println("------------------------------------");
         List<Livro> listDisponivel = livros.stream()
