@@ -1,2 +1,2 @@
-# Java-Bootcamp
-Projetos do Bootcamp Java pela DIO
+# Java
+Repositorio de estudos Java
