@@ -1,4 +1,4 @@
-# ☕ Java Bootcamp
+# ☕ Java Estudos
 
 Este repositório contém exercícios, anotações e desafios realizados durante meus estudos de Java. O objetivo é consolidar conhecimentos em lógica de programação, orientação a objetos e práticas de desenvolvimento.
 
